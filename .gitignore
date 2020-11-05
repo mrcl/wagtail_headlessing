@@ -1,0 +1,5 @@
+wagtail_headlessing.egg-info
+dist
+__pycache__
+
+*.pyc
